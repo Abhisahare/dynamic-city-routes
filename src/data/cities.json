@@ -1,0 +1,206 @@
+[
+    {
+      "slug": "mumbai",
+      "name": "Mumbai",
+      "description": "Financial capital of India",
+      "population": "20.5 million",
+      "area": "603.4 km²"
+    },
+    {
+      "slug": "delhi",
+      "name": "Delhi",
+      "description": "Capital of India",
+      "population": "32.2 million",
+      "area": "1,484 km²"
+    },
+    {
+      "slug": "bangalore",
+      "name": "Bangalore",
+      "description": "Silicon Valley of India",
+      "population": "13.2 million",
+      "area": "741 km²"
+    },
+    {
+      "slug": "hyderabad",
+      "name": "Hyderabad",
+      "description": "City of Pearls",
+      "population": "10.2 million",
+      "area": "650 km²"
+    },
+    {
+      "slug": "ahmedabad",
+      "name": "Ahmedabad",
+      "description": "Manchester of India",
+      "population": "8.4 million",
+      "area": "464 km²"
+    },
+    {
+      "slug": "chennai",
+      "name": "Chennai",
+      "description": "Detroit of India",
+      "population": "11.5 million",
+      "area": "426 km²"
+    },
+    {
+      "slug": "kolkata",
+      "name": "Kolkata",
+      "description": "Cultural capital of India",
+      "population": "14.8 million",
+      "area": "185 km²"
+    },
+    {
+      "slug": "pune",
+      "name": "Pune",
+      "description": "Cultural capital of Maharashtra",
+      "population": "7.5 million",
+      "area": "331.3 km²"
+    },
+    {
+      "slug": "jaipur",
+      "name": "Jaipur",
+      "description": "Pink City",
+      "population": "4.1 million",
+      "area": "485 km²"
+    },
+    {
+      "slug": "lucknow",
+      "name": "Lucknow",
+      "description": "City of Nawabs",
+      "population": "3.8 million",
+      "area": "631 km²"
+    },
+    {
+      "slug": "kanpur",
+      "name": "Kanpur",
+      "description": "Leather City of India",
+      "population": "3.1 million",
+      "area": "403 km²"
+    },
+    {
+      "slug": "nagpur",
+      "name": "Nagpur",
+      "description": "Orange City",
+      "population": "2.9 million",
+      "area": "227 km²"
+    },
+    {
+      "slug": "indore",
+      "name": "Indore",
+      "description": "Cleanest City of India",
+      "population": "3.2 million",
+      "area": "530 km²"
+    },
+    {
+      "slug": "bhopal",
+      "name": "Bhopal",
+      "description": "City of Lakes",
+      "population": "2.6 million",
+      "area": "285 km²"
+    },
+    {
+      "slug": "coimbatore",
+      "name": "Coimbatore",
+      "description": "Manchester of South India",
+      "population": "2.2 million",
+      "area": "246 km²"
+    },
+    {
+      "slug": "visakhapatnam",
+      "name": "Visakhapatnam",
+      "description": "Jewel of the East Coast",
+      "population": "2.5 million",
+      "area": "681 km²"
+    },
+    {
+      "slug": "patna",
+      "name": "Patna",
+      "description": "Ancient City of India",
+      "population": "2.7 million",
+      "area": "250 km²"
+    },
+    {
+      "slug": "vadodara",
+      "name": "Vadodara",
+      "description": "Cultural City of Gujarat",
+      "population": "2.2 million",
+      "area": "235 km²"
+    },
+    {
+      "slug": "ludhiana",
+      "name": "Ludhiana",
+      "description": "Manchester of Punjab",
+      "population": "2 million",
+      "area": "159 km²"
+    },
+    {
+      "slug": "agra",
+      "name": "Agra",
+      "description": "City of Taj Mahal",
+      "population": "1.9 million",
+      "area": "188 km²"
+    },
+    {
+      "slug": "nashik",
+      "name": "Nashik",
+      "description": "Wine Capital of India",
+      "population": "1.8 million",
+      "area": "264 km²"
+    },
+    {
+      "slug": "varanasi",
+      "name": "Varanasi",
+      "description": "Spiritual Capital of India",
+      "population": "1.7 million",
+      "area": "112 km²"
+    },
+    {
+      "slug": "meerut",
+      "name": "Meerut",
+      "description": "Sports City of India",
+      "population": "1.6 million",
+      "area": "141 km²"
+    },
+    {
+      "slug": "rajkot",
+      "name": "Rajkot",
+      "description": "City of Saurashtra",
+      "population": "1.5 million",
+      "area": "170 km²"
+    },
+    {
+      "slug": "srinagar",
+      "name": "Srinagar",
+      "description": "Summer Capital of J&K",
+      "population": "1.5 million",
+      "area": "294 km²"
+    },
+    {
+      "slug": "aurangabad",
+      "name": "Aurangabad",
+      "description": "City of Gates",
+      "population": "1.4 million",
+      "area": "138 km²"
+    },
+    {
+      "slug": "dhanbad",
+      "name": "Dhanbad",
+      "description": "Coal Capital of India",
+      "population": "1.3 million",
+      "area": "577 km²"
+    },
+    {
+      "slug": "amritsar",
+      "name": "Amritsar",
+      "description": "Home of the Golden Temple",
+      "population": "1.2 million",
+      "area": "139 km²"
+    },
+    {
+      "slug": "allahabad",
+      "name": "Allahabad",
+      "description": "City of Kumbh Mela",
+      "population": "1.1 million",
+      "area": "365 km²"
+    }
+  ]
+  
