@@ -5,20 +5,32 @@ export default async function Home() {
   const cities = await getCities();
 
   return (
-    <div className="container mx-auto px-4 py-8 text-center">
-      <h1 className="text-4xl font-bold mb-8 text-center">Top Cities in India</h1>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {cities.map((city) => (
-          <Link
-            key={city.slug}
-            href={`/city/${city.slug}`}
-            className="p-6 border rounded-lg hover:bg-blue-500 transition-colors"
-          >
-            <h2 className="text-2xl font-semibold">{city.name}</h2>
-            <p className="text-gray-600 mt-2">{city.description}</p>
-          </Link>
-        ))}
+    <div className="min-h-screen bg-black py-12 px-4">
+      <div className="max-w-4xl mx-auto">
+        {/* Header */}
+        <h1 className="text-4xl font-bold text-center text-blue-500 mb-12">
+          Top Indian Cities
+        </h1>
+
+        {/* Cities Grid */}
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+          {cities.map((city) => (
+            <Link
+              key={city.slug}
+              href={`/city/${city.slug}`}
+              className="bg-white py-4 px-6 rounded-lg shadow-sm 
+                       hover:shadow-md hover:bg-blue-50 
+                       transform hover:scale-105 
+                       transition duration-300 
+                       text-center"
+            >
+              <h2 className="text-gray-800 font-medium">
+                {city.name}
+              </h2>
+            </Link>
+          ))}
+        </div>
       </div>
     </div>
   );
-};
+}

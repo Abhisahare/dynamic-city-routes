@@ -1,206 +1,1702 @@
 [
-    {
+  {
       "slug": "mumbai",
       "name": "Mumbai",
-      "description": "Financial capital of India",
-      "population": "20.5 million",
-      "area": "603.4 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "18 million",
+      "area": "1454 km\u00b2",
+      "coordinates": {
+          "lat": -76.4217,
+          "lon": 114.2266
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "delhi",
       "name": "Delhi",
-      "description": "Capital of India",
-      "population": "32.2 million",
-      "area": "1,484 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "27 million",
+      "area": "1321 km\u00b2",
+      "coordinates": {
+          "lat": -63.457,
+          "lon": -64.5206
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "bangalore",
       "name": "Bangalore",
-      "description": "Silicon Valley of India",
-      "population": "13.2 million",
-      "area": "741 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "16 million",
+      "area": "1345 km\u00b2",
+      "coordinates": {
+          "lat": 73.88,
+          "lon": 120.9112
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "hyderabad",
       "name": "Hyderabad",
-      "description": "City of Pearls",
-      "population": "10.2 million",
-      "area": "650 km²"
-    },
-    {
-      "slug": "ahmedabad",
-      "name": "Ahmedabad",
-      "description": "Manchester of India",
-      "population": "8.4 million",
-      "area": "464 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "2 million",
+      "area": "1350 km\u00b2",
+      "coordinates": {
+          "lat": 55.4896,
+          "lon": -119.1756
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "chennai",
       "name": "Chennai",
-      "description": "Detroit of India",
-      "population": "11.5 million",
-      "area": "426 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "1 million",
+      "area": "234 km\u00b2",
+      "coordinates": {
+          "lat": 39.0544,
+          "lon": -100.1781
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "kolkata",
       "name": "Kolkata",
-      "description": "Cultural capital of India",
-      "population": "14.8 million",
-      "area": "185 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "15 million",
+      "area": "189 km\u00b2",
+      "coordinates": {
+          "lat": -32.0408,
+          "lon": -176.1461
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "pune",
       "name": "Pune",
-      "description": "Cultural capital of Maharashtra",
-      "population": "7.5 million",
-      "area": "331.3 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "14 million",
+      "area": "718 km\u00b2",
+      "coordinates": {
+          "lat": -39.8465,
+          "lon": 160.0897
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "ahmedabad",
+      "name": "Ahmedabad",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "21 million",
+      "area": "201 km\u00b2",
+      "coordinates": {
+          "lat": 26.5892,
+          "lon": 50.693
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "jaipur",
       "name": "Jaipur",
-      "description": "Pink City",
-      "population": "4.1 million",
-      "area": "485 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "23 million",
+      "area": "257 km\u00b2",
+      "coordinates": {
+          "lat": -64.7863,
+          "lon": 72.016
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "surat",
+      "name": "Surat",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "16 million",
+      "area": "792 km\u00b2",
+      "coordinates": {
+          "lat": -5.843,
+          "lon": -6.3735
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "lucknow",
       "name": "Lucknow",
-      "description": "City of Nawabs",
-      "population": "3.8 million",
-      "area": "631 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "29 million",
+      "area": "557 km\u00b2",
+      "coordinates": {
+          "lat": 29.0152,
+          "lon": 161.3908
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "kanpur",
       "name": "Kanpur",
-      "description": "Leather City of India",
-      "population": "3.1 million",
-      "area": "403 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "1 million",
+      "area": "975 km\u00b2",
+      "coordinates": {
+          "lat": -55.776,
+          "lon": 50.082
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "nagpur",
       "name": "Nagpur",
-      "description": "Orange City",
-      "population": "2.9 million",
-      "area": "227 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "5 million",
+      "area": "489 km\u00b2",
+      "coordinates": {
+          "lat": 33.2781,
+          "lon": -26.8191
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "indore",
       "name": "Indore",
-      "description": "Cleanest City of India",
-      "population": "3.2 million",
-      "area": "530 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "5 million",
+      "area": "1418 km\u00b2",
+      "coordinates": {
+          "lat": 53.4093,
+          "lon": -53.1513
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "thane",
+      "name": "Thane",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "25 million",
+      "area": "897 km\u00b2",
+      "coordinates": {
+          "lat": -76.6328,
+          "lon": 46.3706
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "bhopal",
       "name": "Bhopal",
-      "description": "City of Lakes",
-      "population": "2.6 million",
-      "area": "285 km²"
-    },
-    {
-      "slug": "coimbatore",
-      "name": "Coimbatore",
-      "description": "Manchester of South India",
-      "population": "2.2 million",
-      "area": "246 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "18 million",
+      "area": "621 km\u00b2",
+      "coordinates": {
+          "lat": -48.8398,
+          "lon": -41.6239
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "visakhapatnam",
       "name": "Visakhapatnam",
-      "description": "Jewel of the East Coast",
-      "population": "2.5 million",
-      "area": "681 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "15 million",
+      "area": "581 km\u00b2",
+      "coordinates": {
+          "lat": 4.9586,
+          "lon": -55.341
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "patna",
       "name": "Patna",
-      "description": "Ancient City of India",
-      "population": "2.7 million",
-      "area": "250 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "8 million",
+      "area": "1367 km\u00b2",
+      "coordinates": {
+          "lat": -63.1232,
+          "lon": -133.2169
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "vadodara",
       "name": "Vadodara",
-      "description": "Cultural City of Gujarat",
-      "population": "2.2 million",
-      "area": "235 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "22 million",
+      "area": "588 km\u00b2",
+      "coordinates": {
+          "lat": 67.854,
+          "lon": -174.4337
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "ghaziabad",
+      "name": "Ghaziabad",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "28 million",
+      "area": "614 km\u00b2",
+      "coordinates": {
+          "lat": 43.4058,
+          "lon": -13.1213
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "ludhiana",
       "name": "Ludhiana",
-      "description": "Manchester of Punjab",
-      "population": "2 million",
-      "area": "159 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "8 million",
+      "area": "320 km\u00b2",
+      "coordinates": {
+          "lat": 67.1709,
+          "lon": 124.6104
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "agra",
       "name": "Agra",
-      "description": "City of Taj Mahal",
-      "population": "1.9 million",
-      "area": "188 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "25 million",
+      "area": "804 km\u00b2",
+      "coordinates": {
+          "lat": 35.1057,
+          "lon": 93.5319
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "nashik",
       "name": "Nashik",
-      "description": "Wine Capital of India",
-      "population": "1.8 million",
-      "area": "264 km²"
-    },
-    {
-      "slug": "varanasi",
-      "name": "Varanasi",
-      "description": "Spiritual Capital of India",
-      "population": "1.7 million",
-      "area": "112 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "25 million",
+      "area": "645 km\u00b2",
+      "coordinates": {
+          "lat": -12.3879,
+          "lon": 79.149
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "faridabad",
+      "name": "Faridabad",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "10 million",
+      "area": "948 km\u00b2",
+      "coordinates": {
+          "lat": 16.7026,
+          "lon": -19.7387
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "meerut",
       "name": "Meerut",
-      "description": "Sports City of India",
-      "population": "1.6 million",
-      "area": "141 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "15 million",
+      "area": "442 km\u00b2",
+      "coordinates": {
+          "lat": 86.4815,
+          "lon": 89.0168
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "rajkot",
       "name": "Rajkot",
-      "description": "City of Saurashtra",
-      "population": "1.5 million",
-      "area": "170 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "23 million",
+      "area": "841 km\u00b2",
+      "coordinates": {
+          "lat": -61.7736,
+          "lon": -36.3733
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "kalyan",
+      "name": "Kalyan",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "26 million",
+      "area": "154 km\u00b2",
+      "coordinates": {
+          "lat": -34.1534,
+          "lon": -30.6781
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "vasai",
+      "name": "Vasai",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "1 million",
+      "area": "1357 km\u00b2",
+      "coordinates": {
+          "lat": -79.5945,
+          "lon": 90.9786
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "varanasi",
+      "name": "Varanasi",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "27 million",
+      "area": "764 km\u00b2",
+      "coordinates": {
+          "lat": -28.6985,
+          "lon": -148.3991
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "srinagar",
       "name": "Srinagar",
-      "description": "Summer Capital of J&K",
-      "population": "1.5 million",
-      "area": "294 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "25 million",
+      "area": "1100 km\u00b2",
+      "coordinates": {
+          "lat": -19.7271,
+          "lon": 136.1223
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "aurangabad",
       "name": "Aurangabad",
-      "description": "City of Gates",
-      "population": "1.4 million",
-      "area": "138 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "7 million",
+      "area": "468 km\u00b2",
+      "coordinates": {
+          "lat": 68.329,
+          "lon": -74.7188
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "dhanbad",
       "name": "Dhanbad",
-      "description": "Coal Capital of India",
-      "population": "1.3 million",
-      "area": "577 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "12 million",
+      "area": "244 km\u00b2",
+      "coordinates": {
+          "lat": -29.0,
+          "lon": -71.4914
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
       "slug": "amritsar",
       "name": "Amritsar",
-      "description": "Home of the Golden Temple",
-      "population": "1.2 million",
-      "area": "139 km²"
-    },
-    {
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "28 million",
+      "area": "111 km\u00b2",
+      "coordinates": {
+          "lat": 31.7537,
+          "lon": -141.3066
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "navi-mumbai",
+      "name": "Navi Mumbai",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "24 million",
+      "area": "432 km\u00b2",
+      "coordinates": {
+          "lat": 6.1635,
+          "lon": 42.6825
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
       "slug": "allahabad",
       "name": "Allahabad",
-      "description": "City of Kumbh Mela",
-      "population": "1.1 million",
-      "area": "365 km²"
-    }
-  ]
-  
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "3 million",
+      "area": "489 km\u00b2",
+      "coordinates": {
+          "lat": -9.3109,
+          "lon": -32.1483
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "ranchi",
+      "name": "Ranchi",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "10 million",
+      "area": "225 km\u00b2",
+      "coordinates": {
+          "lat": 20.3621,
+          "lon": -105.2996
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "howrah",
+      "name": "Howrah",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "22 million",
+      "area": "824 km\u00b2",
+      "coordinates": {
+          "lat": -55.8322,
+          "lon": -17.0201
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "jabalpur",
+      "name": "Jabalpur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "9 million",
+      "area": "1202 km\u00b2",
+      "coordinates": {
+          "lat": -45.8724,
+          "lon": -36.0932
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "gwalior",
+      "name": "Gwalior",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "5 million",
+      "area": "1086 km\u00b2",
+      "coordinates": {
+          "lat": 14.1913,
+          "lon": -71.8492
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "coimbatore",
+      "name": "Coimbatore",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "27 million",
+      "area": "1285 km\u00b2",
+      "coordinates": {
+          "lat": 74.1001,
+          "lon": -83.3263
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "vijayawada",
+      "name": "Vijayawada",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "15 million",
+      "area": "811 km\u00b2",
+      "coordinates": {
+          "lat": 57.0293,
+          "lon": -11.5565
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "jodhpur",
+      "name": "Jodhpur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "5 million",
+      "area": "169 km\u00b2",
+      "coordinates": {
+          "lat": -63.811,
+          "lon": -93.9947
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "madurai",
+      "name": "Madurai",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "20 million",
+      "area": "913 km\u00b2",
+      "coordinates": {
+          "lat": 56.901,
+          "lon": 47.4333
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "raipur",
+      "name": "Raipur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "24 million",
+      "area": "1352 km\u00b2",
+      "coordinates": {
+          "lat": -89.6237,
+          "lon": -115.4845
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "kota",
+      "name": "Kota",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "24 million",
+      "area": "275 km\u00b2",
+      "coordinates": {
+          "lat": 37.684,
+          "lon": 73.644
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "guwahati",
+      "name": "Guwahati",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "19 million",
+      "area": "624 km\u00b2",
+      "coordinates": {
+          "lat": -82.3091,
+          "lon": -133.5233
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "chandigarh",
+      "name": "Chandigarh",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "10 million",
+      "area": "1128 km\u00b2",
+      "coordinates": {
+          "lat": 18.713,
+          "lon": 166.7009
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "hubli",
+      "name": "Hubli",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "20 million",
+      "area": "884 km\u00b2",
+      "coordinates": {
+          "lat": -80.8926,
+          "lon": -145.8404
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "mysore",
+      "name": "Mysore",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "9 million",
+      "area": "202 km\u00b2",
+      "coordinates": {
+          "lat": -80.2084,
+          "lon": 111.8969
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "thiruvananthapuram",
+      "name": "Thiruvananthapuram",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "13 million",
+      "area": "172 km\u00b2",
+      "coordinates": {
+          "lat": 51.0543,
+          "lon": -121.1712
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "salem",
+      "name": "Salem",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "16 million",
+      "area": "389 km\u00b2",
+      "coordinates": {
+          "lat": 46.5008,
+          "lon": 73.1462
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "aligarh",
+      "name": "Aligarh",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "9 million",
+      "area": "1015 km\u00b2",
+      "coordinates": {
+          "lat": -38.5709,
+          "lon": -165.0304
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "bareilly",
+      "name": "Bareilly",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "7 million",
+      "area": "1408 km\u00b2",
+      "coordinates": {
+          "lat": 9.69,
+          "lon": -174.9301
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "moradabad",
+      "name": "Moradabad",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "16 million",
+      "area": "637 km\u00b2",
+      "coordinates": {
+          "lat": -67.9843,
+          "lon": 15.5346
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "bhubaneswar",
+      "name": "Bhubaneswar",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "26 million",
+      "area": "1303 km\u00b2",
+      "coordinates": {
+          "lat": -16.3575,
+          "lon": 152.5896
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "gorakhpur",
+      "name": "Gorakhpur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "29 million",
+      "area": "189 km\u00b2",
+      "coordinates": {
+          "lat": -73.0512,
+          "lon": 17.3653
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "bikaner",
+      "name": "Bikaner",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "3 million",
+      "area": "964 km\u00b2",
+      "coordinates": {
+          "lat": 57.8933,
+          "lon": -136.2918
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "siliguri",
+      "name": "Siliguri",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "10 million",
+      "area": "697 km\u00b2",
+      "coordinates": {
+          "lat": -23.3237,
+          "lon": 52.537
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "jamshedpur",
+      "name": "Jamshedpur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "20 million",
+      "area": "647 km\u00b2",
+      "coordinates": {
+          "lat": -20.5595,
+          "lon": 156.359
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "bhilai",
+      "name": "Bhilai",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "21 million",
+      "area": "461 km\u00b2",
+      "coordinates": {
+          "lat": 48.581,
+          "lon": -47.781
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "cuttack",
+      "name": "Cuttack",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "4 million",
+      "area": "1267 km\u00b2",
+      "coordinates": {
+          "lat": 63.5788,
+          "lon": -97.8003
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "firozabad",
+      "name": "Firozabad",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "27 million",
+      "area": "391 km\u00b2",
+      "coordinates": {
+          "lat": 61.5551,
+          "lon": -148.6437
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "kochi",
+      "name": "Kochi",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "20 million",
+      "area": "1122 km\u00b2",
+      "coordinates": {
+          "lat": -19.9823,
+          "lon": -140.66
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "nellore",
+      "name": "Nellore",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "14 million",
+      "area": "953 km\u00b2",
+      "coordinates": {
+          "lat": -50.8454,
+          "lon": 148.8862
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "bhavnagar",
+      "name": "Bhavnagar",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "12 million",
+      "area": "1020 km\u00b2",
+      "coordinates": {
+          "lat": -23.5873,
+          "lon": 123.1616
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "dehradun",
+      "name": "Dehradun",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "14 million",
+      "area": "1052 km\u00b2",
+      "coordinates": {
+          "lat": -7.2665,
+          "lon": -95.4507
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "durgapur",
+      "name": "Durgapur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "6 million",
+      "area": "857 km\u00b2",
+      "coordinates": {
+          "lat": 41.029,
+          "lon": -60.6101
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "asansol",
+      "name": "Asansol",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "7 million",
+      "area": "195 km\u00b2",
+      "coordinates": {
+          "lat": -44.7382,
+          "lon": -155.5843
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "rourkela",
+      "name": "Rourkela",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "2 million",
+      "area": "1184 km\u00b2",
+      "coordinates": {
+          "lat": 1.0467,
+          "lon": 150.2748
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "nanded",
+      "name": "Nanded",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "4 million",
+      "area": "596 km\u00b2",
+      "coordinates": {
+          "lat": -6.4797,
+          "lon": 73.1112
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "kolhapur",
+      "name": "Kolhapur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "2 million",
+      "area": "1422 km\u00b2",
+      "coordinates": {
+          "lat": 49.4437,
+          "lon": 38.3457
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "ajmer",
+      "name": "Ajmer",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "4 million",
+      "area": "1087 km\u00b2",
+      "coordinates": {
+          "lat": 42.2204,
+          "lon": 17.5852
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "akola",
+      "name": "Akola",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "10 million",
+      "area": "1156 km\u00b2",
+      "coordinates": {
+          "lat": -22.7934,
+          "lon": -150.4445
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "latur",
+      "name": "Latur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "17 million",
+      "area": "345 km\u00b2",
+      "coordinates": {
+          "lat": -83.1627,
+          "lon": 122.9294
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "jhansi",
+      "name": "Jhansi",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "29 million",
+      "area": "1318 km\u00b2",
+      "coordinates": {
+          "lat": -34.9091,
+          "lon": -134.8631
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "ujjain",
+      "name": "Ujjain",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "20 million",
+      "area": "1064 km\u00b2",
+      "coordinates": {
+          "lat": -75.3337,
+          "lon": -87.8754
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "sangli",
+      "name": "Sangli",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "12 million",
+      "area": "398 km\u00b2",
+      "coordinates": {
+          "lat": -37.7706,
+          "lon": -23.962
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "tirunelveli",
+      "name": "Tirunelveli",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "8 million",
+      "area": "933 km\u00b2",
+      "coordinates": {
+          "lat": 88.5536,
+          "lon": -152.5929
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "muzaffarnagar",
+      "name": "Muzaffarnagar",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "1 million",
+      "area": "372 km\u00b2",
+      "coordinates": {
+          "lat": -46.0723,
+          "lon": 158.549
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "belgaum",
+      "name": "Belgaum",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "4 million",
+      "area": "166 km\u00b2",
+      "coordinates": {
+          "lat": -62.6632,
+          "lon": -17.2966
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "mangalore",
+      "name": "Mangalore",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "9 million",
+      "area": "613 km\u00b2",
+      "coordinates": {
+          "lat": -46.2832,
+          "lon": -16.277
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "ambattur",
+      "name": "Ambattur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "11 million",
+      "area": "846 km\u00b2",
+      "coordinates": {
+          "lat": -59.3522,
+          "lon": 108.6691
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "tirupati",
+      "name": "Tirupati",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "22 million",
+      "area": "103 km\u00b2",
+      "coordinates": {
+          "lat": 24.635,
+          "lon": 9.1842
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "malegaon",
+      "name": "Malegaon",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "3 million",
+      "area": "337 km\u00b2",
+      "coordinates": {
+          "lat": -78.2209,
+          "lon": -18.0601
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "gaya",
+      "name": "Gaya",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "7 million",
+      "area": "563 km\u00b2",
+      "coordinates": {
+          "lat": 33.9381,
+          "lon": 94.5878
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "jalgaon",
+      "name": "Jalgaon",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "19 million",
+      "area": "825 km\u00b2",
+      "coordinates": {
+          "lat": -59.7889,
+          "lon": 27.4311
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "udaipur",
+      "name": "Udaipur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "21 million",
+      "area": "737 km\u00b2",
+      "coordinates": {
+          "lat": -87.9617,
+          "lon": 77.9619
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "maheshtala",
+      "name": "Maheshtala",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "30 million",
+      "area": "824 km\u00b2",
+      "coordinates": {
+          "lat": 39.8476,
+          "lon": 29.404
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "tiruppur",
+      "name": "Tiruppur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "15 million",
+      "area": "261 km\u00b2",
+      "coordinates": {
+          "lat": -51.0287,
+          "lon": 113.8337
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "davanagere",
+      "name": "Davanagere",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "20 million",
+      "area": "956 km\u00b2",
+      "coordinates": {
+          "lat": -79.4604,
+          "lon": -134.8832
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "kozhikode",
+      "name": "Kozhikode",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "17 million",
+      "area": "872 km\u00b2",
+      "coordinates": {
+          "lat": -58.5934,
+          "lon": 177.2
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "kurnool",
+      "name": "Kurnool",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "3 million",
+      "area": "760 km\u00b2",
+      "coordinates": {
+          "lat": 89.0937,
+          "lon": -20.8952
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "bokaro",
+      "name": "Bokaro",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "26 million",
+      "area": "1445 km\u00b2",
+      "coordinates": {
+          "lat": -72.951,
+          "lon": -171.436
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "south-dumdum",
+      "name": "South Dumdum",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "22 million",
+      "area": "1496 km\u00b2",
+      "coordinates": {
+          "lat": 3.3348,
+          "lon": 136.9687
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "rajahmundry",
+      "name": "Rajahmundry",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "7 million",
+      "area": "329 km\u00b2",
+      "coordinates": {
+          "lat": -34.7654,
+          "lon": -151.7147
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": false,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "ballari",
+      "name": "Ballari",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "15 million",
+      "area": "1172 km\u00b2",
+      "coordinates": {
+          "lat": -52.0061,
+          "lon": 153.6072
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": false
+      }
+  },
+  {
+      "slug": "agartala",
+      "name": "Agartala",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "2 million",
+      "area": "1274 km\u00b2",
+      "coordinates": {
+          "lat": -22.956,
+          "lon": 11.7879
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "bhagalpur",
+      "name": "Bhagalpur",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "12 million",
+      "area": "1320 km\u00b2",
+      "coordinates": {
+          "lat": -25.5113,
+          "lon": 111.5682
+      },
+      "saasServices": {
+          "cloudServices": false,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "loni",
+      "name": "Loni",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "17 million",
+      "area": "1247 km\u00b2",
+      "coordinates": {
+          "lat": -73.6603,
+          "lon": 24.055
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": true,
+          "businessAutomation": true
+      }
+  },
+  {
+      "slug": "bardhaman",
+      "name": "Bardhaman",
+      "description": "One of the major cities in the world, known for its culture and development.",
+      "population": "24 million",
+      "area": "175 km\u00b2",
+      "coordinates": {
+          "lat": -58.7326,
+          "lon": 115.3091
+      },
+      "saasServices": {
+          "cloudServices": true,
+          "dataAnalytics": true,
+          "aiSolutions": false,
+          "businessAutomation": true
+      }
+  }
+]
